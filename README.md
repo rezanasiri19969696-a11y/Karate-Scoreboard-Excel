@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="file_0000000032f48212b53ddccc2272b157.png" width="100%">
+</p>
 * Karate Scoreboard Excel – Kata & Kumite
 
 * WhatsApp Contact
